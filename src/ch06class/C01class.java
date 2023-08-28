@@ -8,6 +8,7 @@ class MyClass01 {
     // 인스턴스가 가져야 하는 기능들
     int age;
     String name;
+    String address;
 }
 public class C01class {
 
