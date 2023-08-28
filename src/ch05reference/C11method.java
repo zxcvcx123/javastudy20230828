@@ -9,7 +9,7 @@ public class C11method {
 	}
 	
 	public static void main(String[] args) {
-		int[] a = method1();
+		System.out.println("hi");
 		
 	}
 
